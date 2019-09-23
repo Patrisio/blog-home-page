@@ -79,6 +79,13 @@ body {
     transform: scale(1);
 }
 
+.green {
+    background: linear-gradient(to bottom, #10b584, #00a474);
+    border-radius: 4px;
+    padding: 12px 10px 11px 10px;
+    color: #fff;
+}
+
 .blue {
     background: #2589FF;
     border-radius: 4px;
@@ -97,6 +104,9 @@ body {
     opacity: .8;
 }
 
+.menu-list__item:nth-child(7) {
+    margin-right: 20px;
+}
 
 .mob-menu-icon {
     width: 24px;
@@ -1095,6 +1105,9 @@ article:hover {
     }
     .menu__link {
         font-size: 20px;
+    }
+    .green {
+        padding: 12px 22px 11px 22px;
     }
     .banner__title {
         font-size: 32px;
