@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Black.otf); 
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Bold.otf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Book.otf); 
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Light.otf); 
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Medium.otf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Regular.otf); 
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-UltraLight.otf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Medium.otf); 
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-Thin.otf); 
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-SemiBoldItalic.otf); 
+}
+
+@font-face {
+    font-family: Suissy;
+    src: url(../font/Suissy/otf/SuisseIntl-SemiBold.otf);
+    font-weight: 600;
+}
